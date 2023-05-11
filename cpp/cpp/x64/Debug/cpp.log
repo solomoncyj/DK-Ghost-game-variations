@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\important! dnd!!!!\others\py\cpp\cpp\Source.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cpp.vcxproj -> E:\important! dnd!!!!\others\py\cpp\x64\Debug\cpp.exe
